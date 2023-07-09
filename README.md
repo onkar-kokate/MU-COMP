@@ -1,13 +1,13 @@
 # Mumbai University COMP
 University of Mumbai - Computer Engineering Labs 
 
-#### 2022-2025 Batch (DSE)
+#### 2022-2025 Batch (DSE) 
 
-## Lab Subjects
-### Semester III
+## 📑Lab Subjects
+#### Semester III
 - Data Structures
 - Computer Graphics
-### Semester IV
+#### Semester IV
 - Analysis Of Algorithms
 - Operating System
 
