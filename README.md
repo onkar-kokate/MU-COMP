@@ -1,7 +1,5 @@
-# Mumbai University COMP
-University of Mumbai - Computer Engineering Labs 
-
-#### 2022-2025 Batch (DSE) 
+# Mumbai University COMP 2023
+University of Mumbai - Computer Engineering Labs
 
 ## 📑Lab Subjects
 #### Semester III
