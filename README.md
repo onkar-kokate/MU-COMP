@@ -1,4 +1,4 @@
-# Mumbai-University-COMP
+# Mumbai University COMP
 University of Mumbai - Computer Engineering Labs 
 
 #### 2022-2025 Batch (DSE)
