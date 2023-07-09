@@ -7,4 +7,4 @@ University of Mumbai - Computer Engineering Labs
 
 ### Contribution
 - Contributions are very much welcome
-- Please fork this repo and keep updating so to help other M.U. folks as well 👍
+- Please fork this repo and keep updating so to help your fellow M.U. folks as well 👍
