@@ -1,4 +1,4 @@
-# Mumbai University COMP 2023
+# Mumbai University COMP
 University of Mumbai - Computer Engineering Labs
 
 ## 📑Lab Subjects
